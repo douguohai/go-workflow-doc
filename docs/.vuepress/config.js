@@ -10,7 +10,7 @@ module.exports = {
     },
     '/zh/': {
       lang: 'zh-CN',
-      title: 'VuePress模板',
+      title: 'go-workflow',
       description: 'VuePress模板，主题，插件演示。展示了一个简单的VuePress案例模板，用户可以直接clone这个仓库，作为初始化一个VuePress网站启动项目，在这个项目的基础上新增自定义配置和功能。'
     }
   },
@@ -73,7 +73,7 @@ module.exports = {
         algolia: {},
         nav: [
           { text: '指南', link: '/zh/guide/', ariaLabel: '指南' },
-          { text: '学习', link: 'https://lwebapp.com', ariaLabel: '学习' },
+          { text: '演示环境', link: 'https://lwebapp.com', ariaLabel: '学习' },
 					{ text: 'Github', link: 'https://github.com/openHacking/vuepress-template' }
         ],
         sidebar: {

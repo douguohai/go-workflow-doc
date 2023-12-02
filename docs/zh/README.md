@@ -1,15 +1,15 @@
 ---
 home: true
-heroText: VuePress模板
-tagline: 模板 · 主题 · 插件
+heroText: go-workflow
+tagline: 工作流 · 审批流 · 引擎
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:
-- title: 模板
-  details: 丰富的模板
-- title: 主题
-  details: 自定义主题
-- title: 插件
-  details: 多种插件
+- title: 轻量级
+  details: golang编写，json定义流程
+- title: 执行稳定
+  details: 监控完备，记录清晰
+- title: 接入简单
+  details: restful api，支持多种客户端接入
 footer: MIT Licensed | Copyright © 2020-present OpenHacking
 ---
